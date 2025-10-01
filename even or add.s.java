@@ -16,9 +16,9 @@ System.out.print("Even and Odd: ");
    System.out.println(n + " is Even");
    else {
    System.out.println(" is Odd");}
+  
+    
+    }     
+
 }
-
-
-      
-
 }
