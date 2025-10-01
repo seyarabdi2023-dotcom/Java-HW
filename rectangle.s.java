@@ -20,5 +20,8 @@ public class JavaApplication {
         System.out.println("Give the value for the width");
         double width = sc.nextDouble();
         System.out.println("The perimeter of a rectangle is equal to " + 2 * (length + width));
+   
     }
+
+}
 }
