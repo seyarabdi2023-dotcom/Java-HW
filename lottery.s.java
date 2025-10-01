@@ -7,7 +7,7 @@ public class lottery.s {
         Random random = new Random();
 
         int number;
-        System.out.print("If the number you choose matches the program’s random number, you will win the lottery! ");
+        System.out.print("If the number you choose matches the program’s random number, you will win the lottery ");
  
         System.out.print("Enter a number (1 0r 2 - digit number) :");
         number = scanner.nextInt();
@@ -23,3 +23,4 @@ public class lottery.s {
         }
     }
 }
+
