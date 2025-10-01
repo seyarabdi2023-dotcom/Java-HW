@@ -21,9 +21,8 @@ public class yeartosecond
         
         System.out.println("year to second : " +(year * 365) *86400+("second"));
         
-        
-        
-        
+     
     }
     
+}
 }
